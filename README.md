@@ -42,7 +42,7 @@ I'm a passionate Computer Science student from Mumbai 🇮🇳, currently learni
 | [**iNotebook**](https://github.com/vishal-singh-web/iNotebook) | ☁️ Your notes on the cloud — A full-stack MERN notes app |
 | [**inotebook-backend**](https://github.com/vishal-singh-web/inotebook-backend) | 🔧 Backend API for iNotebook deployed on Render |
 | [**newsapp**](https://github.com/vishal-singh-web/newsapp) | 📰 A React-based news application |
-| [**AutoREADME-AI**](https://github.com/vishal-singh-web/autoreadme-ai) | 🤖 AI-powered GitHub README generator |
+| [**my-app**](https://github.com/vishal-singh-web/my-app) | 🚀 React-based personal project |
 | [**Mini-Projects**](https://github.com/vishal-singh-web/Mini-Projects) | 🚀 Beginner-friendly starter projects |
 | [**freeCodeCamp**](https://github.com/vishal-singh-web/freeCodeCamp) | 🌐 Contributions to freeCodeCamp open-source |
 
@@ -64,19 +64,11 @@ I'm a passionate Computer Science student from Mumbai 🇮🇳, currently learni
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-singh-web&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalsingh-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://leetcode.com/u/LUCIFER106/)
 
 ---
 
